@@ -1,2 +1,4 @@
 Cat
 Dog
+Snake
+Tiger
